@@ -23,4 +23,4 @@ jobs:
       uses: docker/build-push-action@v5
       with:
         push: true
-        tags: your_dockerhub_username/your_image_name:latest
+        tags: akuma4159/docuseal-test:latest
